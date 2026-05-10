@@ -10,7 +10,7 @@ import PostForm from "./Post-form/PostForm";
 import PostCard from "./PostCard";
 import AuthLayout from "./AuthLayout"
 import Button from "./button"
-import Input from "./Header/input"
+import Input from "./Header/Input"
 import Select from "./Select";
 
 export {
